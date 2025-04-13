@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "compilerOptions": {
+    "checkJs": false
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}

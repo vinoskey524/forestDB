@@ -1,0 +1,13 @@
+# dir
+.github
+.vscode
+
+# files
+.env
+.DS_STORE
+db.ts
+dbc.ts
+main.ts
+deno.json
+deno.lock
+tsconfig.json

@@ -1,0 +1,14 @@
+{
+    "deno.enable": true,
+    "git.ignoreLimitWarning": true,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/.hg/store/**": true,
+        "**/users/**": true,
+        "**/forest/**": true,
+        "**/assets/**": true,
+        "**/forestDB/**": true,
+        "**/users.ts/**": true
+    }
+}
