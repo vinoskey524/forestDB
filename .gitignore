@@ -20,6 +20,8 @@ node_modules
 # files
 .env
 .DS_STORE
+.gitignore
+.npmignore
 package.json
 
 

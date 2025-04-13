@@ -5,9 +5,12 @@
 # files
 .env
 .DS_STORE
+.gitignore
+.npmignore
 db.ts
 dbc.ts
 main.ts
 deno.json
 deno.lock
 tsconfig.json
+users.json
