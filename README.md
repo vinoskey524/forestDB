@@ -46,7 +46,6 @@ and more, working seamlessly on both frontend and backend.
 - [Author](#author)
 - [Next coming package](#next-coming-package)
 - [Contact Me](#contact-me)
-- [GitHub repo](#github-repo)
 - [License](#license)
 
 ## Installation
@@ -4026,12 +4025,6 @@ If you have any project, questions, issues, or feedback, feel free to reach out 
 - **X**: [@vinoskey524_](https://x.com/vinoskey524_) (Notice the underscore at the end)
 
 I speak both French and English.
-
-## GitHub repo
-
-The source code of forest is not yet available on the GitHub repository because I need to remove all encryption-related parts before publishing, for security reasons and to protect users.
-
-This work takes time, so be patient until it becomes available on GitHub.
 
 ## License
 
